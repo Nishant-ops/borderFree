@@ -1,0 +1,23 @@
+.productCard{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 1rem;
+}
+/* .empty{
+    display: none;
+    height:0vh;
+    width: 0vw;
+}*/
+.blackOutline{
+    overflow: visible;
+}
+.line{
+    width: inherit;
+    height:1vh;
+    color:black
+}
+
+.product-image{
+    height:25vh;
+    width:20vw;
+}
