@@ -23,7 +23,46 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.error-check{
+  color:Black;
+  width:30vw;
+  height:15vh;  
+  margin-bottom: 2vh;
+    margin-left: 40vw;
+}
 
+.form-upload-heading{
+  margin-left: 37vw;
+    margin-top: 20vh;
+}
+.form-upload-section{
+   display:flex;
+   width:22vw;
+   height: 8vh;
+   border: 3px solid black;
+   box-shadow: 1px 1px 1px black;
+   margin-left: 39vw;
+   margin-top: 8vh;
+   justify-content:center;
+   align-items:center;
+}
+.link-to-products-container{
+  width: 8vw;
+  height: 5vh;
+  background: blue;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 46vw;
+  margin-top: 1.5rem;
+  border-radius: 12rem;
+}
+.link-to-products{
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+}
 .App-link {
   color: #61dafb;
 }
